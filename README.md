@@ -2,7 +2,7 @@
 
 {Visual}
 
-{Beschrijving}
+{Beschrijving opdracht}
 
 ## Resources
 

@@ -1,4 +1,4 @@
-# ocean-cleanup
+# Ocean Cleanup
 
 {Visual}
 

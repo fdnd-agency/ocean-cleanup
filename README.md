@@ -17,7 +17,7 @@ Het dashboard mag meer "App like" aanvoelen door o.a. page-transitions.
 
 ## Resources
 
-[Backlog](https://github.com/orgs/fdnd-agency/projects/18/views/1?layout=board)
+[Backlog](https://github.com/orgs/fdnd-agency/projects/18/views/2)
 
 [Huisstijl]()  
 

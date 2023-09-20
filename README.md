@@ -2,7 +2,8 @@
 
 {Visual}
 
-{Beschrijving opdracht}
+## De opdracht
+Het huidige dashboard (gemaakt door Sanna) voorzien van echte data via een API en CMS. .....
 
 ## Resources
 

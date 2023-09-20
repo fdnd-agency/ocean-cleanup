@@ -15,6 +15,13 @@ Er kan data aan de API toegevoegd worden. Aan jullie de opdracht te bedenken wel
 ### Bones
 Het dashboard mag meer "App like" aanvoelen door o.a. page-transitions.
 
+## Doelen
+1. Het Dashboard is geschreven in SvelteKit en Hygraph
+2. Voor elke Interceptor wordt er data getoond vanuit een API en CMS
+3. Alle data uit de API wordt gevisualiseerd in het Dashboard (er is meer data in de API dan nu in het Dashboard wordt weergegeven)
+4. Toon meer data dan er nu in de API zit. Aan jullie de vraag welk data er in de API bij moet komen en in welke vorm. 
+5. Het dashboard voelt "smooth" en "App like"aan
+
 ## Resources
 
 [Backlog](https://github.com/orgs/fdnd-agency/projects/18/views/2)

@@ -10,8 +10,10 @@ Er is een dashboard gebouw die deze verschillende interceptors weergeeft. Dit da
 Daarnaast moet het per interceptor mogelijk zijn om data uit het CMS en data uit de API gecombineerd te tonen. 
 Ook wordt er meer data in de API beschikbaar gemaakt, deze moet gevisualiseerd worden op het dashboard.
 
-### Bones
 Er kan data aan de API toegevoegd worden. Aan jullie de opdracht te bedenken welke data relevant is en in wat voor vorm dit uit de API moet komen.
+
+### Bones
+Het dashboard mag meer "App like" aanvoelen door o.a. page-transitions.
 
 ## Resources
 

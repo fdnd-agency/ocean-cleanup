@@ -1,7 +1,6 @@
 # Ocean Cleanup
 
-![Uploading example.png…]()
-
+![example](https://github.com/fdnd-agency/ocean-cleanup/assets/6492909/2cabb0a9-a389-45f4-88ff-2d824415e25b)
 
 The Ocean Cleanup heeft als doel om al het plastic uit de oceaan te halen. Een megaklus! 
 Om te voorkomen dat er nog meer plastic in de oceaan belandt, proberen ze de toevoer van plastic te verminderen. Hier worden Interceptors voor gebruikt. Deze machines halen plastic uit de rivier voordat het de oceaan bereikt. Er staan er meerdere verspreid over de hele wereld.

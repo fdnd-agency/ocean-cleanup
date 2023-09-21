@@ -26,7 +26,7 @@ Het dashboard mag meer "App like" aanvoelen door o.a. page-transitions.
 
 [Backlog](https://github.com/orgs/fdnd-agency/projects/18/views/2)
 
-[Huisstijl]()  
+[Huisstijl (The-Ocean-Cleanup-Styleguide.pdf)](https://github.com/fdnd-agency/ocean-cleanup/files/12681927/The-Ocean-Cleanup-Styleguide.pdf)
 
 [API](https://fdnd-toc-api.netlify.app/)  
 

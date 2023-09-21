@@ -6,11 +6,8 @@ The Ocean Cleanup heeft als doel om al het plastic uit de oceaan te halen. Een m
 Om te voorkomen dat er nog meer plastic in de oceaan belandt, proberen ze de toevoer van plastic te verminderen. Hier worden Interceptors voor gebruikt. Deze machines halen plastic uit de rivier voordat het de oceaan bereikt. Er staan er meerdere verspreid over de hele wereld.
 
 ## De opdracht
-Er is een dashboard gebouw die deze verschillende interceptors weergeeft (Oceaan en Rivier). Dit dashboard moet omgezet worden naar SvelteKit.
-Daarnaast moet het per interceptor mogelijk zijn om data uit het CMS en data uit de API gecombineerd te tonen. 
-Ook wordt er meer data in de API beschikbaar gemaakt, deze moet gevisualiseerd worden op het dashboard.
-
-Er kan data aan de API toegevoegd worden. Aan jullie de opdracht te bedenken welke data relevant is en in wat voor vorm dit uit de API moet komen.
+Er is al een dashboard gebouw die deze verschillende interceptors weergeeft (Oceaan en Rivier) door Sanne. Dit dashboard moet omgezet worden naar SvelteKit.
+Daarnaast moet het per interceptor mogelijk zijn om data uit het CMS en data uit de API gecombineerd te tonen. Bijvoorbeeld: De cijfers (data) komt uit de API, de titel, beschrijving en afbeeldingen komen uit het CMS. Aan jullie de vraag om te bedenken hoe de API nog waardevoller kan worden (welke data is nog meer relevant). Deze data wordt dan in de API beschikbaar gemaakt zodat jullie het kunnen toevoegen aan het dashboard.
 
 ### Bones
 Het dashboard mag meer "App like" aanvoelen door o.a. page-transitions.
@@ -18,9 +15,9 @@ Het dashboard mag meer "App like" aanvoelen door o.a. page-transitions.
 ## Doelen
 1. Het Dashboard maakt gebruik van SvelteKit en Hygraph
 2. Er wordt content getoond vanuit de API en het CMS. Elke Interceptor heeft zowel data uit de API als content uit het CMS nodig.
-4. Alle data uit de API wordt gevisualiseerd in het Dashboard (er is meer data in de API dan nu in het Dashboard wordt weergegeven)
-5. Toon meer data dan er nu in de API zit. Aan jullie de vraag welk data er in de API bij moet komen en in welke vorm. 
-6. Het dashboard voelt "smooth" en "App like"aan
+3. Alle data uit de API wordt gevisualiseerd in het Dashboard (er is meer data in de API dan nu in het Dashboard wordt weergegeven)
+4. Bedenk hoe de API nog waardevoller kan worden. Welke data is nog meer relevant? Dit voegen wij dat toe aan de API.
+5. Het dashboard voelt "smooth" en "App like"aan
 
 ## Resources
 

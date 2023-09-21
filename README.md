@@ -27,3 +27,7 @@ Het dashboard mag meer "App like" aanvoelen door o.a. page-transitions.
 
 [API](https://fdnd-toc-api.netlify.app/)  
 
+## Preferred tech stack
+
+Framework: [SvelteKit](https://kit.svelte.dev/)   
+Headless CMS: [Hygraph](https://hygraph.com/)

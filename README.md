@@ -9,7 +9,7 @@ Om te voorkomen dat er nog meer plastic in de oceaan belandt, proberen ze de toe
 Er is al een dashboard gebouw die deze verschillende interceptors weergeeft (Oceaan en Rivier) door Sanne. Dit dashboard moet omgezet worden naar SvelteKit.
 Daarnaast moet het per interceptor mogelijk zijn om data uit het CMS en data uit de API gecombineerd te tonen. Bijvoorbeeld: De cijfers (data) komt uit de API, de titel, beschrijving en afbeeldingen komen uit het CMS. Aan jullie de vraag om te bedenken hoe de API nog waardevoller kan worden (welke data is nog meer relevant). Deze data wordt dan in de API beschikbaar gemaakt zodat jullie het kunnen toevoegen aan het dashboard.
 
-### Bones
+### Bonus
 Het dashboard mag meer "App like" aanvoelen door o.a. page-transitions.
 
 ## Doelen

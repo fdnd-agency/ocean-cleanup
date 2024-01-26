@@ -1,33 +1,54 @@
-# Ocean Cleanup
+# The Ocean Cleanup Dashboard
+![The Ocean Cleanup dashboard · 4 52pm · 01-24](https://github.com/r20222/lets-jam-webapplicatie/assets/112860052/6312adf5-f7f0-4068-aa9c-b60bd7611bcf)
 
-![example](https://github.com/fdnd-agency/ocean-cleanup/assets/6492909/2cabb0a9-a389-45f4-88ff-2d824415e25b)
 
-The Ocean Cleanup heeft als doel om al het plastic uit de oceaan te halen. Een megaklus! 
-Om te voorkomen dat er nog meer plastic in de oceaan belandt, proberen ze de toevoer van plastic te verminderen. Hier worden Interceptors voor gebruikt. Deze machines halen plastic uit de rivier voordat het de oceaan bereikt. Er staan er meerdere verspreid over de hele wereld.
+## About & Our Project 📖
+The Ocean Cleanup is an organization with the goal of making the ocean plastic-free. They do this by deploying interceptors in the ocean and at river mouths. These interceptors catch plastic waste. The Ocean Cleanup wants to inform people about what they are doing. Therefore, our project was to create a dashboard for The Ocean Cleanup that provides information about these interceptors. This assignment was created for students at the Frontend Design & Development program at HVA.
 
-## De opdracht
-Er is al een dashboard gebouw die deze verschillende interceptors weergeeft (Oceaan en Rivier) door Sanne. Dit dashboard moet omgezet worden naar SvelteKit.
-Daarnaast moet het per interceptor mogelijk zijn om data uit het CMS en data uit de API gecombineerd te tonen. Bijvoorbeeld: De cijfers (data) komt uit de API, de titel, beschrijving en afbeeldingen komen uit het CMS. Aan jullie de vraag om te bedenken hoe de API nog waardevoller kan worden (welke data is nog meer relevant). Deze data wordt dan in de API beschikbaar gemaakt zodat jullie het kunnen toevoegen aan het dashboard.
+## Languages, Frameworks & Tools 🛠️
+Our project is build with the following technologies tools and tech stack:
 
-### Bonus
-Het dashboard mag meer "App like" aanvoelen door o.a. page-transitions.
+* HTML
+* CSS
+* JavaScript
+* Svelte
+* Sveltekit
+* HighCharts
+* Node.js
+* Mapbox
+* Hygraph
+ 
+## Instalation 🎛️
+>  Clone this repository to your code editor.
 
-## Doelen
-1. Het Dashboard maakt gebruik van SvelteKit en Hygraph
-2. Er wordt content getoond vanuit de API en het CMS. Elke Interceptor heeft zowel data uit de API als content uit het CMS nodig.
-3. Alle data uit de API wordt gevisualiseerd in het Dashboard (er is meer data in de API dan nu in het Dashboard wordt weergegeven)
-4. Bedenk hoe de API nog waardevoller kan worden. Welke data is nog meer relevant? Dit voegen wij dat toe aan de API.
-5. Het dashboard voelt "smooth" en "App like"aan
+>  Open the terminal and use the following commands.
 
-## Resources
+```
+npm install
+```
+```
+npm install graphql-request graphql
+```
+```
+npm install highcharts
+```
+```
+npm install mapbox
+```
+```
+npm install mapbox-gl
+```
 
-[Backlog](https://github.com/orgs/fdnd-agency/projects/18/views/2)
+Keep in mind if you want to continue working with highcharts you will need to request a license.
 
-[Huisstijl (The-Ocean-Cleanup-Styleguide.pdf)](https://github.com/fdnd-agency/ocean-cleanup/files/12681927/The-Ocean-Cleanup-Styleguide.pdf)
+You can request one here: [Educational License - Highcharts Blog | Highcharts](https://www.highcharts.com/blog/certificate/education/#:~:text=An%20Education%20or%20Personal%20license,servers%20you%20own%20or%20control.)
+   
+## The use of this dashboard 💻
+This dashboard is intended for anyone interested in The Ocean Cleanup and can be used to view information about the interceptors, such as the amount of waste an interceptor has removed from the water.
 
-[API](https://fdnd-toc-api.netlify.app/)  
+## Sources 📻
+API & Hygraph connection:
+* https://kit.svelte.dev/docs/hooks#server-hooks
 
-## Preferred tech stack
-
-Framework: [SvelteKit](https://kit.svelte.dev/)   
-Headless CMS: [Hygraph](https://hygraph.com/)
+## License
+This project is licensed under the terms of the [MIT license](https://github.com/fdnd-task/lose-your-head-the-client-case/blob/main/LICENSE).
